@@ -11,8 +11,8 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/nghianv/luffymoongodb"
-		},
-		"homepage": "https://twitter.com/2602Blackcat",
+  },
+	"homepage": "https://twitter.com/2602Blackcat",
   "dependencies": {
     "@types/mongoose": "^4.7.23",
     "@types/node": "^8.0.34",
